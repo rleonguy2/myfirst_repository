@@ -1,0 +1,5 @@
+# Today 06th June 2017
+# Welocme to the AFRIGEOSS Software Carpentry Workshop - Accra City Hotel
+# exercise on automatic version control with Git
+# Cold and dry, but everything is my favorite color
+
